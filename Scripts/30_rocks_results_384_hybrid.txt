@@ -1,0 +1,2 @@
+epochs    train_batch    eval_batch    lr    weight_decay   warmup_steps    dense_layers    train_acc    val_acc    disparity_360   disparity_120   avg_train_coeff    avg_test_coeff
+
